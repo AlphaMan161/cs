@@ -1,0 +1,43 @@
+// ILSpyBased#2
+public enum FUFPSMasterParameterCode : byte
+{
+    Address = 230,
+    PeerCount = 229,
+    GameCount = 228,
+    MasterPeerCount = 227,
+    GameId = 226,
+    UserId = 225,
+    ApplicationId = 224,
+    Position = 223,
+    GameList = 222,
+    Secret = 221,
+    AppVersion = 220,
+    NodeId = 219,
+    Info = 218,
+    ServerList = 217,
+    ServerName = 216,
+    ServerIP = 215,
+    ServerPeerCount = 214,
+    MasterEventData = 213,
+    UserName = 212,
+    UserStatus = 211,
+    UserServerIP = 210,
+    UserRoom = 209,
+    UserState = 208,
+    TargetID = 207,
+    UserExp = 206,
+    UserLevel = 205,
+    UserRoomMin = 204,
+    UserRoomMax = 203,
+    ServerPing = 202,
+    ServerCPU = 201,
+    ServerMemory = 200,
+    ServerLag = 199,
+    ServerDisconnectConnect = 198,
+    ConsoleData = 197,
+    GLServerLoad = 196,
+    GLCPULoad = 195,
+    GLRAMLoad = 194
+}
+
+

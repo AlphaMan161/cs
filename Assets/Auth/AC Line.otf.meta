@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9a094e6aec95f0a4c9804977b3ab87a3
+timeCreated: 1552122941
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: AC Line
+  fontNames:
+  - AC Line
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

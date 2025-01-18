@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 236165d7b56cfd5418417286e9033904
+timeCreated: 1552122793
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: MightMakesRightBB(RUS BY LYAJKA
+  fontNames:
+  - MightMakesRightBB(RUS BY LYAJKA
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

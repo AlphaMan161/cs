@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4690adbba2c73b2459a80f9c446493a8
+timeCreated: 1552121679
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: GothamSSm
+  fontNames:
+  - GothamSSm
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

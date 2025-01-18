@@ -1,0 +1,309 @@
+---------
+Reference: [Assembly-CSharp-firstpass]..iTween/<Start>c__Iterator2/System.Collections.Generic.IEnumerator<object>.Current
+Reason00: is virtual
+---------
+Reference: [Assembly-CSharp-firstpass]..iTween/<Start>c__Iterator2/System.Collections.IEnumerator.Current
+Reason00: is virtual
+---------
+Reference: [Assembly-CSharp-firstpass]..iTween/<Start>c__Iterator2::MoveNext System.Boolean()
+Reason00: is virtual
+---------
+Reference: [Assembly-CSharp-firstpass]..iTween/<Start>c__Iterator2::System.Collections.Generic.IEnumerator<object>.get_Current System.Object()
+Reason00: is virtual
+---------
+Reference: [Assembly-CSharp-firstpass]..iTween/<Start>c__Iterator2::System.Collections.IEnumerator.get_Current System.Object()
+Reason00: is virtual
+---------
+Reference: [Assembly-CSharp-firstpass]..iTween/<Start>c__Iterator2::Dispose System.Void()
+Reason00: is virtual
+---------
+Reference: [Assembly-CSharp-firstpass]..iTween/<Start>c__Iterator2::Reset System.Void()
+Reason00: by exclude table unity function names
+---------
+Reference: [Assembly-CSharp-firstpass]..iTween/<TweenRestart>c__Iterator1/System.Collections.Generic.IEnumerator<object>.Current
+Reason00: is virtual
+---------
+Reference: [Assembly-CSharp-firstpass]..iTween/<TweenRestart>c__Iterator1/System.Collections.IEnumerator.Current
+Reason00: is virtual
+---------
+Reference: [Assembly-CSharp-firstpass]..iTween/<TweenRestart>c__Iterator1::MoveNext System.Boolean()
+Reason00: is virtual
+---------
+Reference: [Assembly-CSharp-firstpass]..iTween/<TweenRestart>c__Iterator1::System.Collections.Generic.IEnumerator<object>.get_Current System.Object()
+Reason00: is virtual
+---------
+Reference: [Assembly-CSharp-firstpass]..iTween/<TweenRestart>c__Iterator1::System.Collections.IEnumerator.get_Current System.Object()
+Reason00: is virtual
+---------
+Reference: [Assembly-CSharp-firstpass]..iTween/<TweenRestart>c__Iterator1::Dispose System.Void()
+Reason00: is virtual
+---------
+Reference: [Assembly-CSharp-firstpass]..iTween/<TweenRestart>c__Iterator1::Reset System.Void()
+Reason00: by exclude table unity function names
+---------
+Reference: [Assembly-CSharp-firstpass]..iTween/<TweenDelay>c__Iterator0/System.Collections.Generic.IEnumerator<object>.Current
+Reason00: is virtual
+---------
+Reference: [Assembly-CSharp-firstpass]..iTween/<TweenDelay>c__Iterator0/System.Collections.IEnumerator.Current
+Reason00: is virtual
+---------
+Reference: [Assembly-CSharp-firstpass]..iTween/<TweenDelay>c__Iterator0::MoveNext System.Boolean()
+Reason00: is virtual
+---------
+Reference: [Assembly-CSharp-firstpass]..iTween/<TweenDelay>c__Iterator0::System.Collections.Generic.IEnumerator<object>.get_Current System.Object()
+Reason00: is virtual
+---------
+Reference: [Assembly-CSharp-firstpass]..iTween/<TweenDelay>c__Iterator0::System.Collections.IEnumerator.get_Current System.Object()
+Reason00: is virtual
+---------
+Reference: [Assembly-CSharp-firstpass]..iTween/<TweenDelay>c__Iterator0::Dispose System.Void()
+Reason00: is virtual
+---------
+Reference: [Assembly-CSharp-firstpass]..iTween/<TweenDelay>c__Iterator0::Reset System.Void()
+Reason00: by exclude table unity function names
+---------
+Reference: [Assembly-CSharp-firstpass]..iTween/ApplyTween::Invoke System.Void()
+Reason00: is virtual
+---------
+Reference: [Assembly-CSharp-firstpass]..iTween/ApplyTween::BeginInvoke System.IAsyncResult([mscorlib].System.AsyncCallback,[mscorlib].System.Object)
+Reason00: is virtual
+---------
+Reference: [Assembly-CSharp-firstpass]..iTween/ApplyTween::EndInvoke System.Void([mscorlib].System.IAsyncResult)
+Reason00: is virtual
+---------
+Reference: [Assembly-CSharp-firstpass]..iTween/EasingFunction::Invoke System.Single([mscorlib].System.Single,[mscorlib].System.Single,[mscorlib].System.Single)
+Reason00: is virtual
+---------
+Reference: [Assembly-CSharp-firstpass]..iTween/EasingFunction::BeginInvoke System.IAsyncResult([mscorlib].System.Single,[mscorlib].System.Single,[mscorlib].System.Single,[mscorlib].System.AsyncCallback,[mscorlib].System.Object)
+Reason00: is virtual
+---------
+Reference: [Assembly-CSharp-firstpass]..iTween/EasingFunction::EndInvoke System.Single([mscorlib].System.IAsyncResult)
+Reason00: is virtual
+---------
+Reference: [Assembly-CSharp-firstpass].NetObf.StringLocalization/lang
+Reason04: name contains in name_exclude_table_as_fun_name
+---------
+Reference: [Assembly-CSharp-firstpass].NetObf.Test/Vwr34FbdbFWwqpu5dCn3sgLp4::DFd43fx System.Void()
+Reason00: 
+---------
+Reference: [Assembly-CSharp-firstpass].NetObf.Test/湖草空間例子忘記要記住::間例 System.Void()
+Reason00: 
+---------
+Reference: [Assembly-CSharp-firstpass].NetObf.ResourcesTools::GetResourceStreamBytes System.Byte[]([mscorlib].System.Reflection.Assembly,[mscorlib].System.String)
+Reason00: is public & flag IsDontRenamePublic
+---------
+Reference: [Assembly-CSharp-firstpass].NetObf.ResourcesTools::GetResourceStreamString System.String([mscorlib].System.Reflection.Assembly,[mscorlib].System.String)
+Reason00: is public & flag IsDontRenamePublic
+---------
+Reference: [Assembly-CSharp-firstpass].NetObf.StrEncrypt::list
+Reason06: name contains in name_exclude_table_as_fun_name
+---------
+Reference: [Assembly-CSharp-firstpass].NetObf.BaseMeshSerializer::Load System.Collections.Generic.IList`1<UnityEngine.Mesh>([mscorlib].System.Byte[])
+Reason00: by exclude table unity function names
+---------
+Reference: [Assembly-CSharp-firstpass]..iTween/CRSpline::pts
+Reason00: is public & flag IsDontRenamePublic
+---------
+Reference: [Assembly-CSharp-firstpass]..iTween/CRSpline::Interp UnityEngine.Vector3([mscorlib].System.Single)
+Reason00: is public & flag IsDontRenamePublic
+---------
+Reference: [Assembly-CSharp-firstpass]..iTween/Defaults::time
+Reason00: is public & flag IsDontRenamePublic
+---------
+Reference: [Assembly-CSharp-firstpass]..iTween/Defaults::delay
+Reason00: is public & flag IsDontRenamePublic
+---------
+Reference: [Assembly-CSharp-firstpass]..iTween/Defaults::namedColorValue
+Reason00: is public & flag IsDontRenamePublic
+---------
+Reference: [Assembly-CSharp-firstpass]..iTween/Defaults::loopType
+Reason00: is public & flag IsDontRenamePublic
+---------
+Reference: [Assembly-CSharp-firstpass]..iTween/Defaults::easeType
+Reason00: is public & flag IsDontRenamePublic
+---------
+Reference: [Assembly-CSharp-firstpass]..iTween/Defaults::lookSpeed
+Reason00: is public & flag IsDontRenamePublic
+---------
+Reference: [Assembly-CSharp-firstpass]..iTween/Defaults::isLocal
+Reason00: is public & flag IsDontRenamePublic
+---------
+Reference: [Assembly-CSharp-firstpass]..iTween/Defaults::space
+Reason00: is public & flag IsDontRenamePublic
+---------
+Reference: [Assembly-CSharp-firstpass]..iTween/Defaults::orientToPath
+Reason00: is public & flag IsDontRenamePublic
+---------
+Reference: [Assembly-CSharp-firstpass]..iTween/Defaults::color
+Reason00: is public & flag IsDontRenamePublic
+---------
+Reference: [Assembly-CSharp-firstpass]..iTween/Defaults::updateTimePercentage
+Reason00: is public & flag IsDontRenamePublic
+---------
+Reference: [Assembly-CSharp-firstpass]..iTween/Defaults::updateTime
+Reason00: is public & flag IsDontRenamePublic
+---------
+Reference: [Assembly-CSharp-firstpass]..iTween/Defaults::cameraFadeDepth
+Reason00: is public & flag IsDontRenamePublic
+---------
+Reference: [Assembly-CSharp-firstpass]..iTween/Defaults::lookAhead
+Reason00: is public & flag IsDontRenamePublic
+---------
+Reference: [Assembly-CSharp-firstpass]..iTween/Defaults::useRealTime
+Reason00: is public & flag IsDontRenamePublic
+---------
+Reference: [Assembly-CSharp-firstpass]..iTween/Defaults::up
+Reason00: is public & flag IsDontRenamePublic
+---------
+Reference: [Assembly-CSharp-firstpass].NetObf.Test/.Vwr34FbdbFWwqpu5dCn3sgLp4
+Reason00: 
+---------
+Reference: [Assembly-CSharp-firstpass].NetObf.Test/.湖草空間例子忘記要記住
+Reason00: 
+---------
+Reference: [Assembly-CSharp-firstpass].NetObf.DM
+Reason02(IsExclude): name contains in name_exclude_table_as_class_name
+---------
+Reference: [Assembly-CSharp-firstpass]..iTween/.Defaults
+Reason00: is public & flag IsDontRenamePublic
+---------
+Reference: [Assembly-CSharp]..WeaponController/<FinishTaunt>c__Iterator2/System.Collections.Generic.IEnumerator<object>.Current
+Reason00: is virtual
+---------
+Reference: [Assembly-CSharp]..WeaponController/<FinishTaunt>c__Iterator2/System.Collections.IEnumerator.Current
+Reason00: is virtual
+---------
+Reference: [Assembly-CSharp]..WeaponController/<FinishTaunt>c__Iterator2::MoveNext System.Boolean()
+Reason00: is virtual
+---------
+Reference: [Assembly-CSharp]..WeaponController/<FinishTaunt>c__Iterator2::System.Collections.Generic.IEnumerator<object>.get_Current System.Object()
+Reason00: is virtual
+---------
+Reference: [Assembly-CSharp]..WeaponController/<FinishTaunt>c__Iterator2::System.Collections.IEnumerator.get_Current System.Object()
+Reason00: is virtual
+---------
+Reference: [Assembly-CSharp]..WeaponController/<FinishTaunt>c__Iterator2::Dispose System.Void()
+Reason00: is virtual
+---------
+Reference: [Assembly-CSharp]..WeaponController/<FinishTaunt>c__Iterator2::Reset System.Void()
+Reason00: by exclude table unity function names
+---------
+Reference: [Assembly-CSharp]..WeaponController/<Change>c__Iterator1/System.Collections.Generic.IEnumerator<object>.Current
+Reason00: is virtual
+---------
+Reference: [Assembly-CSharp]..WeaponController/<Change>c__Iterator1/System.Collections.IEnumerator.Current
+Reason00: is virtual
+---------
+Reference: [Assembly-CSharp]..WeaponController/<Change>c__Iterator1::MoveNext System.Boolean()
+Reason00: is virtual
+---------
+Reference: [Assembly-CSharp]..WeaponController/<Change>c__Iterator1::System.Collections.Generic.IEnumerator<object>.get_Current System.Object()
+Reason00: is virtual
+---------
+Reference: [Assembly-CSharp]..WeaponController/<Change>c__Iterator1::System.Collections.IEnumerator.get_Current System.Object()
+Reason00: is virtual
+---------
+Reference: [Assembly-CSharp]..WeaponController/<Change>c__Iterator1::Dispose System.Void()
+Reason00: is virtual
+---------
+Reference: [Assembly-CSharp]..WeaponController/<Change>c__Iterator1::Reset System.Void()
+Reason00: by exclude table unity function names
+---------
+Reference: [Assembly-CSharp]..WeaponController/<ChangeZombieWeapon>c__Iterator0/System.Collections.Generic.IEnumerator<object>.Current
+Reason00: is virtual
+---------
+Reference: [Assembly-CSharp]..WeaponController/<ChangeZombieWeapon>c__Iterator0/System.Collections.IEnumerator.Current
+Reason00: is virtual
+---------
+Reference: [Assembly-CSharp]..WeaponController/<ChangeZombieWeapon>c__Iterator0::MoveNext System.Boolean()
+Reason00: is virtual
+---------
+Reference: [Assembly-CSharp]..WeaponController/<ChangeZombieWeapon>c__Iterator0::System.Collections.Generic.IEnumerator<object>.get_Current System.Object()
+Reason00: is virtual
+---------
+Reference: [Assembly-CSharp]..WeaponController/<ChangeZombieWeapon>c__Iterator0::System.Collections.IEnumerator.get_Current System.Object()
+Reason00: is virtual
+---------
+Reference: [Assembly-CSharp]..WeaponController/<ChangeZombieWeapon>c__Iterator0::Dispose System.Void()
+Reason00: is virtual
+---------
+Reference: [Assembly-CSharp]..WeaponController/<ChangeZombieWeapon>c__Iterator0::Reset System.Void()
+Reason00: by exclude table unity function names
+---------
+Reference: [Assembly-CSharp]..WallManager/<IUpload>c__Iterator1/System.Collections.Generic.IEnumerator<object>.Current
+Reason00: is virtual
+---------
+Reference: [Assembly-CSharp]..WallManager/<IUpload>c__Iterator1/System.Collections.IEnumerator.Current
+Reason00: is virtual
+---------
+Reference: [Assembly-CSharp]..WallManager/<IUpload>c__Iterator1::MoveNext System.Boolean()
+Reason00: is virtual
+---------
+Reference: [Assembly-CSharp]..WallManager/<IUpload>c__Iterator1::System.Collections.Generic.IEnumerator<object>.get_Current System.Object()
+Reason00: is virtual
+---------
+Reference: [Assembly-CSharp]..WallManager/<IUpload>c__Iterator1::System.Collections.IEnumerator.get_Current System.Object()
+Reason00: is virtual
+---------
+Reference: [Assembly-CSharp]..WallManager/<IUpload>c__Iterator1::Dispose System.Void()
+Reason00: is virtual
+---------
+Reference: [Assembly-CSharp]..WallManager/<IUpload>c__Iterator1::Reset System.Void()
+Reason00: by exclude table unity function names
+---------
+Reference: [Assembly-CSharp]..WallManager/<ICreateAndUpload>c__Iterator0/System.Collections.Generic.IEnumerator<object>.Current
+Reason00: is virtual
+---------
+Reference: [Assembly-CSharp]..WallManager/<ICreateAndUpload>c__Iterator0/System.Collections.IEnumerator.Current
+Reason00: is virtual
+---------
+Reference: [Assembly-CSharp]..WallManager/<ICreateAndUpload>c__Iterator0::MoveNext System.Boolean()
+Reason00: is virtual
+---------
+Reference: [Assembly-CSharp]..WallManager/<ICreateAndUpload>c__Iterator0::System.Collections.Generic.IEnumerator<object>.get_Current System.Object()
+Reason00: is virtual
+---------
+Reference: [Assembly-CSharp]..WallManager/<ICreateAndUpload>c__Iterator0::System.Collections.IEnumerator.get_Current System.Object()
+Reason00: is virtual
+---------
+Reference: [Assembly-CSharp]..WallManager/<ICreateAndUpload>c__Iterator0::Dispose System.Void()
+Reason00: is virtual
+---------
+Reference: [Assembly-CSharp]..WallManager/<ICreateAndUpload>c__Iterator0::Reset System.Void()
+Reason00: by exclude table unity function names
+---------
+Reference: [Assembly-CSharp].NetObf.StringLocalization/lang
+Reason04: name contains in name_exclude_table_as_fun_name
+---------
+Reference: [Assembly-CSharp].NetObf.Test/Vwr34FbdbFWwqpu5dCn3sgLp4::DFd43fx System.Void()
+Reason00: 
+---------
+Reference: [Assembly-CSharp].NetObf.Test/湖草空間例子忘記要記住::間例 System.Void()
+Reason00: 
+---------
+Reference: [Assembly-CSharp].NetObf.ResourcesTools::GetResourceStreamBytes System.Byte[]([mscorlib].System.Reflection.Assembly,[mscorlib].System.String)
+Reason00: is public & flag IsDontRenamePublic
+---------
+Reference: [Assembly-CSharp].NetObf.ResourcesTools::GetResourceStreamString System.String([mscorlib].System.Reflection.Assembly,[mscorlib].System.String)
+Reason00: is public & flag IsDontRenamePublic
+---------
+Reference: [Assembly-CSharp].NetObf.StrEncrypt::list
+Reason06: name contains in name_exclude_table_as_fun_name
+---------
+Reference: [Assembly-CSharp].NetObf.BaseMeshSerializer::Load System.Collections.Generic.IList`1<UnityEngine.Mesh>([mscorlib].System.Byte[])
+Reason00: by exclude table unity function names
+---------
+Reference: [Assembly-CSharp]..WallManager/<ICreateAndUpload>c__Iterator0::rect
+Reason06: name contains in name_exclude_table_as_fun_name
+---------
+Reference: [Assembly-CSharp]..UserRatingAdvanced/<AddMapStat>c__AnonStorey2::name
+Reason06: name contains in name_exclude_table_as_fun_name
+---------
+Reference: [Assembly-CSharp].NetObf.Test/.Vwr34FbdbFWwqpu5dCn3sgLp4
+Reason00: 
+---------
+Reference: [Assembly-CSharp].NetObf.Test/.湖草空間例子忘記要記住
+Reason00: 
+---------
+Reference: [Assembly-CSharp].NetObf.DM
+Reason02(IsExclude): name contains in name_exclude_table_as_class_name

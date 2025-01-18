@@ -1,0 +1,15 @@
+// ILSpyBased#2
+public enum UserCommunicationOptions : byte
+{
+    DD_MNU_ADD_FRIEND = 1,
+    DD_MNU_PRIVATE_CHAT,
+    DD_MNU_SEND_MAIL,
+    DD_MNU_JOIN_GAME,
+    DD_MNU_INVITE_CLAN,
+    DD_MNU_REMOVE_FRIEND,
+    DD_MNU_DECLINE_FRIEND,
+    DD_MNU_CONFIRM_FRIEND,
+    DD_MNU_CHAT
+}
+
+
